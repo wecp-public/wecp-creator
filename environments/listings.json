@@ -1,0 +1,15 @@
+{
+    "node:16": {
+        "install-script": "node_16.sh"
+    },
+    "node-frontend:16": {
+        "install": "node_frontend_16.sh"
+    },
+    "java:17": {
+        "install": "java_17.sh"
+    }
+}
+
+
+git remote set-url origin https://github.com/We-Create-Problems/wecp-creator-templates.git https://github.com/wecp-public/wecp-creator.git
+
